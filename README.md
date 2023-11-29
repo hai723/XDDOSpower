@@ -8,6 +8,7 @@ cloud google is best XDDOS
 ```
 curl https://raw.githubusercontent.com/hai723/XDDOSpower/main/XDDOS -o a
 bash a
+java -jar ./XDDOS/XDDOS.jar
 ```
 
 # run command in
