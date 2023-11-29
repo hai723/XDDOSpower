@@ -12,5 +12,7 @@ bash a
 
 # run command in
 github (XDDOS best but ban acc)
+
 replit (XDDOS Normal but no ban)
+
 cloud google (super super bad no ban)
