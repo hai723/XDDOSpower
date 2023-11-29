@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/hai723/XDDOSpower/main/proxy/socks4vip.txt
 https://raw.githubusercontent.com/hai723/XDDOSpower/main/proxy/socks4.txt
+https://raw.githubusercontent.com/hai723/XDDOSpower/main/proxy/sock4hazard.txt
