@@ -6,7 +6,7 @@ cloud google is best XDDOS
 [thank AnAverageBeing](https://github.com/AnAverageBeing/XDDOS)
 # command
 ```
-curl -sLkO https://is.gd/XDDOS ; bash XDDOS ; cd XDDOS ; java -jar XDDOS.jar
+curl -sLkO https://is.gd/XDDOS ; bash XDDOS
 
 ```
 
