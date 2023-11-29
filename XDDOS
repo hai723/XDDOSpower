@@ -1,0 +1,3 @@
+git clone https://github.com/AnAverageBeing/XDDOS.git
+clear
+java -jar ./XDDOS/XDDOS.jar
