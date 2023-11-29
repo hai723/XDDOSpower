@@ -1,4 +1,4 @@
-curl https://raw.githubusercontent.com/hai723/XDDOSpower/main/url.txt -o ./XDDOS/urls.txt
 git clone https://github.com/AnAverageBeing/XDDOS.git
+curl https://raw.githubusercontent.com/hai723/XDDOSpower/main/url.txt -o ./XDDOS/urls.txt
 clear
 java -jar ./XDDOS/XDDOS.jar
